@@ -35,7 +35,7 @@ background: linear-gradient(to right, #4286f4, #373B44); /* W3C, IE 10+/ Edge, F
 }
 .navbar a{
     font-size: 18px;
-    color: #6086d7;
+    color: transparent;
     text-decoration:none;
     font-weight: 500;
     margin-left: 35px;
